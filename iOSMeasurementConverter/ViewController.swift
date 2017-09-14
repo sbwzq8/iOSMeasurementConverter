@@ -13,8 +13,6 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         return 1
     }
     
-
-   
     @IBOutlet weak var lengthPicker: UIPickerView!
     
     var initialLengthPicker: [String] = [String]()
