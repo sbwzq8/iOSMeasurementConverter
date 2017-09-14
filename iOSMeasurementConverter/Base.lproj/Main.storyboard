@@ -130,7 +130,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dOV-Fi-GMi">
                                         <rect key="frame" x="266.5" y="0.0" width="88.5" height="68"/>
                                         <color key="backgroundColor" red="1" green="0.46295118330000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        <state key="normal" title="⬅️">
+                                        <state key="normal" title="⏎">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <userDefinedRuntimeAttributes>
